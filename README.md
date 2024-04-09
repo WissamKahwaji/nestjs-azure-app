@@ -8,7 +8,9 @@ This application demonstrates a process where user bill data is generated, sent 
 
 ```bash
 $ npm install
+
 #add your you settings for your .env file 
+
 EVENT_HUB_CONNECTION 
 EVENT_HUB_CONSUMER_CONNECTION
 EVENT_HUB_NAME
